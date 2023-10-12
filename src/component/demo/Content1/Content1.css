@@ -1,0 +1,19 @@
+.titlecontent {
+  text-align: center;
+  color: black;
+  margin: 0;
+}
+.contentcontent {
+  color: black;
+  text-align: center;
+  opacity: 70%;
+}
+.card-more {
+  text-decoration: none;
+  color: black;
+  opacity: 60%;
+}
+.card-more:hover {
+  opacity: 100%;
+  color: black;
+}

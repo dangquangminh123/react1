@@ -1,0 +1,19 @@
+.custom-wrapper {
+  padding-left: 12px;
+  padding-right: 12px;
+  /* Thêm các thuộc tính CSS khác tùy chỉnh kích thước và căn chỉnh */
+}
+.login-slider {
+  background: BLACK;
+  height: 100vh;
+}
+.login-form {
+  background-color: #272e48;
+  height: 100vh;
+
+}
+@media (max-width: 790px) {
+  .login-slider {
+    display: none;
+  }
+}

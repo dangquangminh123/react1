@@ -1,0 +1,9 @@
+.card-price .price{
+  text-decoration: line-through;
+  counter-reset: #999999;
+
+}
+.card-price .priceSale{
+  color: red;
+  
+}
